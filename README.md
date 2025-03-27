@@ -70,7 +70,7 @@ Déposer le dossier securisator_server dans le répertoire www ou htdocs du serv
 L'URL du serveur sera alors :
 http://localhost/securisator_server.
 
-Si besoin, modifier les liens dans Unity pour correspondre à l'URL correcte.
+Si besoin, modifier les liens dans Unity (Assets > Scripts > SqlConfig > GlobalConfig.cs ) pour correspondre à l'URL correcte.
 
 Le projet est maintenant installé et prêt à fonctionner ! 🚀
 
