@@ -74,3 +74,4 @@ Si besoin, modifier les liens dans Unity (Assets > Scripts > SqlConfig > GlobalC
 
 Le projet est maintenant installé et prêt à fonctionner ! 🚀
 
+Les mots de passes sont à configurer dans le serveur : fichier config.php !
